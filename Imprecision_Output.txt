@@ -1,0 +1,6 @@
+X is = 
+1.23456789E204
+ y is = 
+8.10000007371E-205
+ z is x and y multiplied together which is =
+0.9999999999999999
